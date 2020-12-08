@@ -1,0 +1,19 @@
+{
+  "name": "cpps-sniffer",
+  "version": "1.0.0",
+  "description": "a simple packet sniffer that sniffs packets on most cppses.",
+  "main": "sniff.js",
+  "dependencies": {
+    "cap": "^0.2.1",
+    "chalk": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "simple packet sniffer"
+  ],
+  "author": "benji",
+  "license": "ISC"
+}
